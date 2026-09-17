@@ -168,6 +168,23 @@ A personal finance concept designed around simplifying expense tracking and auto
 </p>
 
 ---
+<p align="center"> <a href="https://github.com/just-dhruvsingh"> <img src="https://github-stats-extended.vercel.app/api?username=just-dhruvsingh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="180" alt="Dhruv's GitHub Stats" /> </a> <a href="https://github.com/just-dhruvsingh"> <img src="https://github-stats-extended.vercel.app/api/top-langs?username=just-dhruvsingh&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Top Languages" /> </a> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=just-dhruvsingh&hide_border=true&theme=transparent" height="180" alt="GitHub Streak" /> </p>
+<p align="center"> <a href="https://github.com/just-dhruvsingh"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=just-dhruvsingh&hide_border=true&theme=github-compact" alt="Dhruv's Contribution Graph" /> </a> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=just-dhruvsingh&theme=flat&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" /> </p>
+
+<p align="center"> <a href="https://www.linkedin.com/in/dhruvsinghmsit"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/just-dhruvsingh"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
+⚡ Fun Fact
+
+My attention span operates strictly on two modes:
+completely zoned out or hyper-focused on a random side quest until 4 AM.
+💬 Ask Me About
+
+React • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • REST APIs • UI/UX • Figma • Hackathons • Product Prototyping
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=just-dhruvsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <sub>Made with ☕, curiosity, and an unreasonable number of side projects.</sub> </p> ```
 
 # 📚 Currently Learning
 
