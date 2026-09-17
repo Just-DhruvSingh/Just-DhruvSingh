@@ -1,31 +1,282 @@
 <h1 align="center">Hi 👋, I'm Dhruv Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=just-dhruvsingh&label=Profile%20views&color=0e75b6&style=flat" alt="just-dhruvsingh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=just-dhruvsingh" alt="just-dhruvsingh" /></a> </p>
-
-- 🌱 I’m currently learning **Offline-first web architecture, advanced Node.js patterns, and full-stack performance optimization**
-
-- 💬 Ask me about **React, Vite, Tailwind CSS, Node.js, and UI/UX wireframing in Figma**
-
-- 📫 How to reach me **https://www.linkedin.com/in/dhruvsinghmsit**
-
-- ⚡ Fun fact **My attention span operates strictly on two modes: completely zoned out or hyper-focused on a random side quest until 4 AM**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhruvsinghmsit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvsinghmsit" height="30" width="40" /></a>
+<p align="center">
+  <strong>Frontend-Focused Full-Stack Developer • Builder • Hackathon Enthusiast</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  I build practical web applications, AI-powered tools, and product prototypes with a strong focus on
+  <strong>UI/UX, performance, and real-world problem solving.</strong>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Just.DhruvSingh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Just.DhruvSingh" /></a></p><br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruvsinghmsit">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/just-dhruvsingh">
+    <img src="https://img.shields.io/badge/GitHub-just--dhruvsingh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=just-dhruvsingh&show_icons=true&locale=en&layout=compact" alt="just-dhruvsingh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just-dhruvsingh&show_icons=true&locale=en" alt="just-dhruvsingh" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-dhruvsingh&" alt="just-dhruvsingh" /></p>
+* 🎓 **B.Tech CSE student at Maharaja Surajmal Institute of Technology (MSIT), Delhi**
+* 💻 Building **full-stack web applications, AI tools, and product prototypes**
+* ⚡ Interested in **offline-first architecture, scalable backend systems, and frontend performance**
+* 🎨 I enjoy combining **clean UI/UX with functional engineering**
+* 🧠 Hackathon enthusiast who loves turning ideas into working prototypes
+* 🌱 Currently exploring **advanced Node.js patterns, offline-first systems, and full-stack optimization**
+* 🤝 Open to collaborations, hackathons, internships, and interesting product ideas
+
+> **Build. Break. Learn. Ship. Repeat.**
+
+---
+
+# 💡 What I Build
+
+I enjoy working on products that sit at the intersection of **technology, design, and real-world usability**.
+
+### 🌐 Full-Stack Applications
+
+Responsive and scalable web applications using modern JavaScript technologies.
+
+### 🤖 AI-Powered Products
+
+Applications that combine LLMs, semantic search, automation, and useful user workflows.
+
+### ⚡ Offline-First Systems
+
+Web applications designed to remain useful even with unreliable or intermittent connectivity.
+
+### 🎨 Product & UI/UX
+
+Interfaces that focus on simplicity, usability, accessibility, and strong visual hierarchy.
+
+### 🚀 Rapid Prototypes
+
+Hackathon and startup MVPs that turn ideas into testable products quickly.
+
+---
+
+# 🔥 Featured Projects
+
+## 🕵️ TraceX
+
+**Deepfake Detection Chrome Extension**
+
+A browser-based concept focused on helping users identify potentially manipulated or synthetic media.
+
+**Focus:** Browser Extension • AI • Detection • UX
+
+**Stack:** `JavaScript` `React` `Node.js`
+
+---
+
+## 🧠 Research Agent
+
+**AI-Powered Research Assistant**
+
+An AI research workflow that combines document retrieval, semantic search, and language models to help users explore information more efficiently.
+
+**Focus:** RAG • Semantic Search • AI Research • Information Retrieval
+
+**Stack:** `Python` `FastAPI` `Qdrant` `Streamlit` `LLMs`
+
+---
+
+## 💳 Offline-First Smart Payment System
+
+**Token-Based Offline Payment Concept**
+
+A payment architecture designed around offline transactions using temporary tokens, QR-based interactions, PIN verification, expiry mechanisms, and ledger-style reconciliation.
+
+**Focus:** Offline Systems • Security • Payments • Distributed Workflows
+
+**Stack:** `Node.js` `Express` `MongoDB` `QR` `Web Technologies`
+
+---
+
+## 🥤 FitFuel
+
+**Smart Protein Vending Concept**
+
+A connected vending solution designed to make convenient protein consumption more accessible through a combination of physical hardware and software.
+
+**Focus:** Hardware + Software • Product Design • Automation
+
+**Stack:** `Web Technologies` `IoT Concepts` `Product Design`
+
+---
+
+## 💰 PocketBudget Coach
+
+**Smart Expense Tracking Application**
+
+A personal finance concept designed around simplifying expense tracking and automatically organizing transaction information.
+
+**Focus:** FinTech • Automation • Expense Tracking • UX
+
+**Stack:** `React` `Node.js` `MongoDB`
+
+---
+
+# 🏆 Achievements
+
+* 🏆 **Finalist — NASSCOM Cohort 4** for **FitFuel**
+* 🚀 **Hackathon Finalist** across multiple competitions
+* 🛡️ **HackHazards Ambassador**
+* 💡 Participated in multiple hackathons, ideathons, and product-building challenges
+* 🎯 **Head of Events — Prakriti**, MSIT
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp" />
+</p>
+
+### Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Offline-First Web Architecture
+        ↓
+Advanced Node.js Patterns
+        ↓
+Backend Architecture & Scalability
+        ↓
+Full-Stack Performance Optimization
+        ↓
+AI Engineering & Retrieval Systems
+```
+
+---
+
+# 🧩 Areas of Interest
+
+```text
+Frontend Engineering        ███████████████████░  95%
+Full-Stack Development      ██████████████████░░  90%
+UI/UX & Product Design      ████████████████░░░░  80%
+Backend Development         ████████████████░░░░  80%
+AI / RAG Systems             ██████████████░░░░░░  70%
+Cloud & DevOps               ████████████░░░░░░░░  60%
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=just-dhruvsingh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent"
+    height="165"
+    alt="Dhruv's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-dhruvsingh&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=just-dhruvsingh&hide_border=true&theme=transparent"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=just-dhruvsingh&hide_border=true&theme=github-compact"
+    alt="Contribution Graph"
+  />
+</p>
+
+---
+
+# 🏅 GitHub Profile Trophy
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=just-dhruvsingh&theme=flat&no-frame=true&margin-w=10&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# 💬 Ask Me About
+
+`React` • `Vite` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `UI/UX` • `Figma` • `Hackathons` • `Product Prototyping`
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruvsinghmsit">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> My attention span operates strictly on two modes:
+> **completely zoned out** or **hyper-focused on a random side quest until 4 AM.**
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=just-dhruvsingh&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+  <sub>Made with ☕, curiosity, and an unreasonable number of side projects.</sub>
+</p>
